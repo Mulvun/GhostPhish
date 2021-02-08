@@ -1,0 +1,2 @@
+# GhostPhish
+Shell phishing tool
